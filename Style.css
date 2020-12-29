@@ -1,22 +1,4 @@
-body
+li
 {
-	background-color: #DDD;
-	margin:auto;
-	width: 800px;
-}
-
-.container
-{
-	border: 2px dashed #aa5230;
-	height: 500px;
-	width: 800px;
-}
-
-.item
-{
-	border: 1px solid #221fb3;
-	background-color: #386ccc;
-	color: #FFF;
-	font-weight: bolder;
-	padding: 10px;
+	list-style-type: circle;
 }
